@@ -1,6 +1,6 @@
 # AutomationAssment
 
-# Project Title
+# Demo BDD
 
 Simple demo on BDD framework for Automation Testing
 
