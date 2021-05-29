@@ -1,0 +1,63 @@
+[ {
+  "line" : 2,
+  "elements" : [ {
+    "start_timestamp" : "2021-05-29T07:54:36.635Z",
+    "line" : 4,
+    "name" : "Send the email in Gmail",
+    "description" : "",
+    "id" : "sending-an-email-using-gmail;send-the-email-in-gmail",
+    "type" : "scenario",
+    "keyword" : "Scenario",
+    "steps" : [ {
+      "result" : {
+        "status" : "undefined"
+      },
+      "line" : 6,
+      "name" : "the user is able to access the application",
+      "match" : { },
+      "keyword" : "Given "
+    }, {
+      "result" : {
+        "duration" : 998500,
+        "status" : "skipped"
+      },
+      "line" : 7,
+      "name" : "user log-in to application with valid credentials",
+      "match" : { },
+      "keyword" : "Then "
+    }, {
+      "result" : {
+        "duration" : 1998000,
+        "status" : "skipped"
+      },
+      "line" : 8,
+      "name" : "user will compose the new mail",
+      "match" : { },
+      "keyword" : "And "
+    }, {
+      "result" : {
+        "status" : "skipped"
+      },
+      "line" : 9,
+      "name" : "User with send the mail",
+      "match" : { },
+      "keyword" : "Then "
+    } ],
+    "tags" : [ {
+      "name" : "@sample"
+    } ]
+  } ],
+  "name" : "sending an email using Gmail",
+  "description" : "",
+  "id" : "sending-an-email-using-gmail",
+  "keyword" : "Feature",
+  "uri" : "file:src/test/resources/features/sendMail.feature",
+  "tags" : [ {
+    "name" : "@sample",
+    "type" : "Tag",
+    "location" : {
+      "line" : 1,
+      "column" : 1
+    }
+  } ]
+} ]

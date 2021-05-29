@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="1" name="Test Suite" skipped="0" tests="1" time="0.613">
+
+<testcase classname="sending an email using Gmail" name="Send the email in Gmail" time="0.131">
+            
+    <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given the user is able to access the application............................undefined
+Then user log-in to application with valid credentials......................skipped
+And user will compose the new mail..........................................skipped
+Then User with send the mail................................................skipped
+]]></failure>
+        
+</testcase>
+
+</testsuite>
